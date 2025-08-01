@@ -19,6 +19,30 @@ Prototypes in JS
     Object.setPrototypeOf(obj, { x: 24 });
     ```
 
+
+## Symbol
+
+primitief datatype
+- `number` `string` `boolean`
+
+```js
+let sym = Symbol();
+```
+
+## Sets & maps
+
+Set: 
+- unieke waardes
+
+Map:
+- unieke keys  key-value pair  dictionary hashmap hashtable
+
+`Map` vs `{}`
+- performance: zie codedocent over Map
+- .size
+- behoudt volgorde
+- complexe keys
+
 ## Toffe links
 
 - [Type hero](https://typehero.dev/explore), om je TypeScript-skills te oefenen

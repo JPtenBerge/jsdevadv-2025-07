@@ -28,14 +28,6 @@ obj['❤🎂😁🤞'] = 123;
 obj[{}] = 123;
 console.log(obj);
 
-// mapje.
-
-// Map vs {}
-// - codedocent Map
-// - .size
-// - behoudt volgorde
-// - complexe keys
-
 console.log(mapje);
 
 
