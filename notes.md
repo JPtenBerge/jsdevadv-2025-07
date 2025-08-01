@@ -46,3 +46,6 @@ Map:
 ## Toffe links
 
 - [Type hero](https://typehero.dev/explore), om je TypeScript-skills te oefenen
+- [Vue gebruikt `Proxy` voor change detection](https://vuejs.org/guide/extras/reactivity-in-depth.html#how-reactivity-works-in-vue)
+- [WebAssembly](https://developer.mozilla.org/en-US/docs/WebAssembly/Guides/Understanding_the_text_format), tof lowlevel taaltje als alternatief om code in de browser te runnen
+- [Frontend framework benchmarks](https://github.com/krausest/js-framework-benchmark)
