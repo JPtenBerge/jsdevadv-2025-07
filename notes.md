@@ -43,6 +43,11 @@ Map:
 - behoudt volgorde
 - complexe keys
 
+## Promises
+
+- wrappers om async werk
+- `Task` in C#, `Future` in Java
+
 ## Toffe links
 
 - [Type hero](https://typehero.dev/explore), om je TypeScript-skills te oefenen
